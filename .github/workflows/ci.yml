@@ -54,4 +54,4 @@ jobs:
         if: success()
         with:
           name: BiliRoamingX-${{ env.VERSION }}
-          path: 'build'
+          path: 'build' 
